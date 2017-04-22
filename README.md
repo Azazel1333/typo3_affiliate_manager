@@ -1,0 +1,1 @@
+# typo3_affiliate_manager
