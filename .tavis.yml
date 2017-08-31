@@ -1,4 +1,4 @@
   language: php
-  group": stable
-  dist": trusty
+  group: stable
+  dist: trusty
   os: linux
